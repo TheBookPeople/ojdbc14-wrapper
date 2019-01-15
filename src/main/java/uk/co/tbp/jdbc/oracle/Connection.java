@@ -1,4 +1,4 @@
-package uk.co.thebookpeople.jdbc.oracle;
+package uk.co.tbp.jdbc.oracle;
 
 import java.sql.Array;
 import java.sql.Blob;
