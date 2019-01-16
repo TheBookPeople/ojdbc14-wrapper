@@ -13,6 +13,15 @@ Trying to use ojdbc14.jar with some Java 8 software is giving:
 
     Caused by: java.lang.AbstractMethodError: oracle.jdbc.driver.T4CConnection.isValid(I)Z
 
+Building
+--------
+
+Running
+
+    mvn clean package
+
+Will create a target/ojdbc14-wrapper.jar
+
 Usage
 -----
 
