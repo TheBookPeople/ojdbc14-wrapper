@@ -25,6 +25,6 @@ Will create a target/ojdbc14-wrapper.jar
 Usage
 -----
 
-Leave ojdbc14.jar on the classpath, and don't change the connection string.
-Set the driver class to be uk.co.tbp.jdbc.oracle.Driver.
+* Leave ojdbc14.jar on the classpath, and don't change the connection string.
+* Set the driver class to be uk.co.tbp.jdbc.oracle.Driver.
 
